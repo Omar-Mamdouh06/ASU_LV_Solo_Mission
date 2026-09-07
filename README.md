@@ -2,16 +2,16 @@
 ## STM32F411CEU6 Custom Reference PCB
 
 ### Schematic Diagram
-![image][https://github.com/user-attachments/assets/1b44c58c-d9ad-456b-83d9-320897e0691c](https://github.com/user-attachments/assets/1b44c58c-d9ad-456b-83d9-320897e0691c)
+![image](https://github.com/user-attachments/assets/1b44c58c-d9ad-456b-83d9-320897e0691c)
 
 
-[https://github.com/user-attachments/assets/9ff9a08e-bfa2-4261-b16c-df5108ec65f5](https://github.com/user-attachments/assets/9ff9a08e-bfa2-4261-b16c-df5108ec65f5)
+![image](https://github.com/user-attachments/assets/9ff9a08e-bfa2-4261-b16c-df5108ec65f5)
 
 
-[https://github.com/user-attachments/assets/0366a782-2f8c-4e09-ad2e-13d5370f25aa](https://github.com/user-attachments/assets/0366a782-2f8c-4e09-ad2e-13d5370f25aa)
+![image](https://github.com/user-attachments/assets/0366a782-2f8c-4e09-ad2e-13d5370f25aa)
 
 
-[https://github.com/user-attachments/assets/17971989-039b-4780-be59-980fe937e944](https://github.com/user-attachments/assets/17971989-039b-4780-be59-980fe937e944)
+![image](https://github.com/user-attachments/assets/17971989-039b-4780-be59-980fe937e944)
 
 
 
