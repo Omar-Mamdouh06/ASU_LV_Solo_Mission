@@ -16,34 +16,34 @@
 
 
 ### PCB Layout & 3D Render
-[https://github.com/user-attachments/assets/0e3b16ea-3471-41b5-a549-5049a58f549f](https://github.com/user-attachments/assets/0e3b16ea-3471-41b5-a549-5049a58f549f)
+![image](https://github.com/user-attachments/assets/0e3b16ea-3471-41b5-a549-5049a58f549f)
 
 
-[https://github.com/user-attachments/assets/2df26801-331c-47b2-a2e0-e31b1dd5c259](https://github.com/user-attachments/assets/2df26801-331c-47b2-a2e0-e31b1dd5c259)
+![image](https://github.com/user-attachments/assets/2df26801-331c-47b2-a2e0-e31b1dd5c259)
 
 
-[https://github.com/user-attachments/assets/85124660-531f-4e16-9454-b238d435541f](https://github.com/user-attachments/assets/85124660-531f-4e16-9454-b238d435541f)
+![image](https://github.com/user-attachments/assets/85124660-531f-4e16-9454-b238d435541f)
 
 
-[https://github.com/user-attachments/assets/4569f6cb-79e7-4b42-96b5-2158c09c79c3](https://github.com/user-attachments/assets/4569f6cb-79e7-4b42-96b5-2158c09c79c3)
+![image](https://github.com/user-attachments/assets/4569f6cb-79e7-4b42-96b5-2158c09c79c3)
 
 
-[https://github.com/user-attachments/assets/66a788d7-a0d4-4633-ad7a-2849ef2e6fb0](https://github.com/user-attachments/assets/66a788d7-a0d4-4633-ad7a-2849ef2e6fb0)
+![image](https://github.com/user-attachments/assets/66a788d7-a0d4-4633-ad7a-2849ef2e6fb0)
 
 
-[https://github.com/user-attachments/assets/be48cb4c-7c49-404f-9ddd-f9a0acc4b33e](https://github.com/user-attachments/assets/be48cb4c-7c49-404f-9ddd-f9a0acc4b33e)
+![image](https://github.com/user-attachments/assets/be48cb4c-7c49-404f-9ddd-f9a0acc4b33e)
 
 
-[https://github.com/user-attachments/assets/e5762275-d0b1-469c-8b00-05ae1795a273](https://github.com/user-attachments/assets/e5762275-d0b1-469c-8b00-05ae1795a273)
+![image](https://github.com/user-attachments/assets/e5762275-d0b1-469c-8b00-05ae1795a273)
 
 
-[https://github.com/user-attachments/assets/9a7d2a7b-a94a-433b-ba93-abacca46e835](https://github.com/user-attachments/assets/9a7d2a7b-a94a-433b-ba93-abacca46e835)
+![image](https://github.com/user-attachments/assets/9a7d2a7b-a94a-433b-ba93-abacca46e835)
 
 
-[https://github.com/user-attachments/assets/03d4b9a5-ae5c-4932-b9d5-e241767acaee](https://github.com/user-attachments/assets/03d4b9a5-ae5c-4932-b9d5-e241767acaee)
+![image](https://github.com/user-attachments/assets/03d4b9a5-ae5c-4932-b9d5-e241767acaee)
 
 
-[https://github.com/user-attachments/assets/0fce054c-71b0-4dc1-8cee-5b4ac4a39795](https://github.com/user-attachments/assets/0fce054c-71b0-4dc1-8cee-5b4ac4a39795)
+![image](https://github.com/user-attachments/assets/0fce054c-71b0-4dc1-8cee-5b4ac4a39795)
 
 
 [https://github.com/user-attachments/assets/3d29f1dc-ba71-479c-adae-edb3b62d8c45](https://github.com/user-attachments/assets/3d29f1dc-ba71-479c-adae-edb3b62d8c45)
